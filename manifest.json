@@ -1,13 +1,1 @@
-[
-	{
-	  "name": "Pretty Lyrics",
-	  "description": "A continued development and maintenance fork of the original Beautiful Lyrics extension.",
-	  "preview": "./previews/icon.gif",
-	  "main": "./Builds/Release/beautiful-lyrics.mjs",
-	  "readme": "README.md",
-	  "authors": [
-		  { "name": "tristan", "url": "https://github.com/tristandevs" }
-	  ],
-	  "tags": ["lyrics", "fullscreen", "background", "romanization", "romaji", "romaja", "pinyin", "japanese", "korean", "chinese"]
-	}
-]
+
