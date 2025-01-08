@@ -1,5 +1,5 @@
 // Define our URLs
-const BucketURL = "https://lyrics.shuttleai.com/beautiful-lyrics" // This is replaced by the build-script
+const BucketURL = "https://lyrics.shuttleai.com/pretty-lyrics" // This is replaced by the build-script
 const LatestVersionURL = "https://lyrics.shuttleai.com/version" // This is replaced by the build-script
 const ForceToVersion = undefined // This is replaced by the build-script
 
