@@ -1,6 +1,6 @@
 // Define our URLs
-const BucketURL = "https://extensions-storage.socalifornian.live/beautiful-lyrics" // This is replaced by the build-script
-const LatestVersionURL = "https://extensions.socalifornian.live/version/beautiful-lyrics" // This is replaced by the build-script
+const BucketURL = "https://lyrics.shuttleai.com/beautiful-lyrics" // This is replaced by the build-script
+const LatestVersionURL = "https://lyrics.shuttleai.com/version" // This is replaced by the build-script
 const ForceToVersion = undefined // This is replaced by the build-script
 
 // Handle getting our version from the version string
