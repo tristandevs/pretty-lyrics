@@ -1,5 +1,5 @@
 # Pretty Lyrics
-🪄 A continued development and maintenance fork of the original Beautiful Lyrics extension. 
+🪄 Temp Fix
 
 ![Thumbnail](./previews/thumbnail.gif)
 # A New and More Pretty Spotify Lyrics Experience
